@@ -66,3 +66,5 @@ Example Compliance Risks:
 
 * Different risk catalogues (e.g., Business Risk Catalogue, Operational Risk Catalogue)
 * Risk mitigation strategies
+* Risk register
+* Impact and Likelihood Assessment

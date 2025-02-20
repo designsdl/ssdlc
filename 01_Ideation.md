@@ -14,8 +14,11 @@ Example: "The platform should have a login feature that allows users to access t
 * **Non-Functional Requirements**: Define the performance, scalability, usability, security, and other qualities of the system.
 Example: "The platform should respond to user inputs within 2 seconds, and have a minimum uptime of 99.5%."
 * **Domain Requirements**: Define the business rules, processes, and constraints that govern the application's domain.
+* **Stakeholder Requirement**: Define the specific expectations of stakeholders based on survey, discussion and questionaries
 
 
 **3. Defining priorities**
 
 Priorities are used to determine which requirements are most important to meet initially. This helps focus on the most critical features first.
+* Must have, Should have, Could have, Won’t have can be used to define the priorities.
+* Or Value vs Effort Martix this will provide which task will result most value in least effort.
